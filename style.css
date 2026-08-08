@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    background: #111;
+    color: #fff;
+    font-family: Arial, serif;
+}
+
+.idk {
+    text-align: center;
+}
